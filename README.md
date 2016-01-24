@@ -41,6 +41,8 @@ Milestone5.0: Cambios generales a la estrutuctura de carpetas.
 
 4.1: 24/01/2016: Creado el Modelo de La Compuerta Logica Xor compuesta de compuertas AND, con su respectivo TestBench.\n
 4.2: 24/01/2016: Añadido modulo del sumador de 1 bit con Acarreo, compuesto de Compuertas AND, XOR y Or.
+
+4.3: 24/01/2016: Creado Pipeline de 5 entradas, 2 salidas 7 registros y compuesto de 1 sumador de 1 bit, 1 Compuerta And, 1 OR, 1 NOT.
 ###############
 # Cambios Generales #
 ###############
