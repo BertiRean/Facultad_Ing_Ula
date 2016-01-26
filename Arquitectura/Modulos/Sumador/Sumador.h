@@ -58,6 +58,15 @@ class Sumador : public sc_module
 			Gate_Or_1->c_Out_Or(d_Out_Sumador);
 
 		}
+		
+		~Sumador()
+		{
+			delete Gate_And_1;
+			delete Gate_And_2;
+			delete Gate_Or_1;
+			delete Gate_Xor_1;
+			delete Gate_Xor_2;
+		}
 
 
 	private:
