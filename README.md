@@ -20,7 +20,7 @@ Milestone3.0: Pr3. -- Codigos Fuentes Programacion 3. Aqui Iran todo lo referent
 
 Milestone4.0: Arquitectura de Computadoras -- Programacion de Compuertas, Procesadores, Modulos y codigos que utilizan systemc para el modelado de sistemas logicos.
 
-Milestone5.0: Cambios generales a la estrutuctura de carpetas.
+Milestone5.0: Cambios generales a la estrutuctura de carpetas y cambios a el codigo.
 
 
 ###############
@@ -41,7 +41,8 @@ Milestone5.0: Cambios generales a la estrutuctura de carpetas.
 
 4.1: 24/01/2016: Creado el Modelo de La Compuerta Logica Xor compuesta de compuertas AND, con su respectivo TestBench.  
 4.2: 24/01/2016: Añadido modulo del sumador de 1 bit con Acarreo, compuesto de Compuertas AND, XOR y Or.  
-4.3: 24/01/2016: Creado Pipeline de 5 entradas, 2 salidas 7 registros y compuesto de 1 sumador de 1 bit, 1 Compuerta And, 1 OR, 1 NOT.
+4.3: 24/01/2016: Creado Pipeline de 5 entradas, 2 salidas 7 registros y compuesto de 1 sumador de 1 bit, 1 Compuerta And, 1 OR, 1 NOT.  
+4.4: 27/01/2016: Ajustada la salida en consola del Testbench del sumador para faciltar su comprension, tambien se comento el header de Sumador para saber cual es la salida del acarreo.
 ###############
 # Cambios Generales #
 ###############

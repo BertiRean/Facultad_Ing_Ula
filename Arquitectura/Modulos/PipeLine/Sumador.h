@@ -10,7 +10,7 @@ class Sumador : public sc_module
 	public:
 
 		sc_in<bool> a_In_Sumador, b_In_Sumador, c_In_Sumador;
-		sc_out<bool> c_Out_Sumador, d_Out_Sumador;
+		sc_out<bool> c_Out_Sumador , d_Out_Sumador; //la Salida d_Out es el Acarreo de Salida
 
 		SC_CTOR(Sumador)
 		{
