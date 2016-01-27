@@ -9,6 +9,12 @@ class TestBench : public sc_module
 		sc_in<bool> Clock_In, c_In_Test, d_In_Test;
 		sc_out<bool> a_Out_Test, b_Out_Test, c_Out_Test;
 
+		/*
+			a_Out_Test: Entrada 1 del Sumador
+			b_Out_Test: Entrada 2 del Sumador
+			c_Out_Test: Acarreo de Entrada del Sumador
+		*/
+
 		SC_CTOR(TestBench)
 		{
 			SC_THREAD(Test);

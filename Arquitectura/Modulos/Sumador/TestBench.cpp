@@ -68,9 +68,9 @@ void TestBench::Test()
 void TestBench::Print_Result()
 {
 	cout<<sc_time_stamp()<<"\t"
-		<<a_Out_Test.read()<<"\t"
-		<<b_Out_Test.read()<<"\t"
-		<<c_Out_Test.read()<<"\t"
-		<<c_In_Test.read()<<"\t"
-		<<d_In_Test.read()<<"\t"<<endl;
+		<< a_Out_Test.read()<<"\t"
+		<< b_Out_Test.read()<<"\t"
+		<<"Input Acarreo: " << c_Out_Test.read()<<"\t"
+		<<"Resultado: " << c_In_Test.read()<<"\t"
+		<<"Out Acarreo: " <<d_In_Test.read()<<"\t"<<endl;
 }
