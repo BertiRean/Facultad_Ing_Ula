@@ -27,7 +27,6 @@ Milestone5.0: Cambios generales a la estrutuctura de carpetas.
 # Pr1 #
 ###############
 
-1.1: 13/02/2016: Modificada y subida el Laboratorio 4_04 del Prof. Eladio, para validar que solo entren 10 notas.  
 ###############
 # Pr2 #
 ###############
