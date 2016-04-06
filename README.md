@@ -36,6 +36,7 @@ Milestone5.0: Cambios generales a la estrutuctura de carpetas.
 # Pr3 #
 ###############
 
+1.1: 05/04/2016: Subida practica para mostrar los tiempos de ejecucion del insertion sort con todos los casos.
 ###############
 # Arquitectura #
 ###############
